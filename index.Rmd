@@ -786,8 +786,13 @@ class: su-white
 <p style ="font-size:200%; margin-bottom: -10px; margin-left: -5px;">Thank You!</p>
 [ acois@sun.ac.za](mailto:acois@sun.ac.za)
 ]
+<br/><br/>
 
+<div style = "text-align: right; position: fixed; right: 100px;">
 
+<img src = "images/github.png" width = "85"></img> <br/><br/>
+The rmarkdown code of this presentation is available on GitHub: <br/> 
+<a href = "https://github.com/AnnibaleCois/DataVisualisation">https://github.com/AnnibaleCois/DataVisualisation</a> 
 
-
+</div>
 
