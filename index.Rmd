@@ -20,11 +20,11 @@ output:
         scroll: false # disable slide transitions by scrolling
 ---
 class: hide_logo
-```{r setup, echo=FALSE}
+```{r setup, echo=FALSE, message=FALSE, warning=FALSE}
 knitr::read_chunk('assets/init.R')
 ```
 
-```{r, echo=FALSE, cache=FALSE, message=FALSE}
+```{r, echo=FALSE, cache=FALSE, message=FALSE, warning=FALSE}
 <<init>>
 ```
 
