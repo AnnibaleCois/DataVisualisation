@@ -2,7 +2,7 @@
 # UTILITIES                                                                                         #
 #####################################################################################################
 
-# Create a copy of teh slides as pdf and ppt
+# Create a copy of the slides as pdf and ppt
 
 printslide <- function(pres) {
   try(xaringanBuilder::build_all(paste(pres, ".Rmd", sep = ""), include = c("pdf","pptx")), silent = TRUE)

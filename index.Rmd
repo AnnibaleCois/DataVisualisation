@@ -1,11 +1,11 @@
 ---
 title: "Data Visualisation"
-subtitle: "Dr Annibale Cois"
-author: "<span style='font-size: 80%;'>Department of Global Health, Stellenbosch University &amp; <br/> School of Public Health, University of Cape Town<br/><br/>Contacts: acois@sun.ac.za<br/>ORCID: [0000-0002-7014-6510](https://orcid.org/0000-0002-7014-6510)<br/>Web of Science: [ AAK-8603-2020](https://www.webofscience.com/wos/author/rid/AAK-8603-2020)</span>" 
+subtitle: "Annibale Cois, MEng, MPH, PhD"
+author: "<span style='font-size: 80%;'>Burden of Disease Research Unit, South African Medical Research Council &amp; <br/> School of Public Health, University of Cape Town<br/><br/>Email: annibale.cois@mrc.ac.za<br/>ORCID: [0000-0002-7014-6510](https://orcid.org/0000-0002-7014-6510)<br/>Web of Science: [ AAK-8603-2020](https://www.webofscience.com/wos/author/rid/AAK-8603-2020)<br/><br/><br/><img src = 'assets/anniweb.png' width = '50'></img><br/> [https://annibalecois.github.io](https://annibalecois.github.io)</span>" 
 date: "<span style = 'color: #A88B53; position: relative; top: 150px;'></span>" 
 output:  
   xaringan::moon_reader:
-    css: ["default", "assets/sydney-fonts.css", "assets/sydney.css", "assets/stellenbosch.css"]
+    css: ["default", "assets/sydney-fonts.css", "assets/sydney.css", "assets/samrc.css"]
     self_contained: false # if true, fonts will be stored locally
     seal: true # show a title slide with YAML information
     includes:
@@ -758,11 +758,11 @@ background-size: 40%
  
 ---
 class: hide_logo 
-background-image: url("images/surveylab.png")
+background-image: url("images/expose.png")
 background-position: 50% 50%
 background-size: 80%
  
- https://surveylab.sun.ac.za/
+ https://exposeproject2.shinyapps.io/expose_dashboard/
  
 ---
 class: hide_logo
@@ -779,12 +779,14 @@ PrintBibliography(bib)
 ]
 
 ---
-class: su-white
-<br/><br/>
+class: hide_logo
+background-image: url("assets/samrc_background.png")
+background-position: 50% 50%
+background-size: 100% 100%
+
 
 .font200[
-<p style ="font-size:200%; margin-bottom: -10px; margin-left: -5px;">Thank You!</p>
-[ acois@sun.ac.za](mailto:acois@sun.ac.za)
+<p style ="font-size:200%; margin-bottom: -10px; margin-left: 200px;">Thank You!</p>
 ]
 <br/><br/>
 

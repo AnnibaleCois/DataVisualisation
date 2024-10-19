@@ -59,14 +59,14 @@ top_icon = function(x) {
   icons::icon_style(
     icons::fontawesome(x),
     position = "fixed", top = 38, right = 50,
-    fill = "#561a34"  
+    fill = "#000000"  
   )
 }
 
 # XaringanExtra functions 
 use_xaringan_extra(c("editable", "tile_view", "scribble"))
 use_logo(
-  image_url = "assets/sulogo_1.png",
+  image_url = "assets/samrc_logo.png",
   width = "150px",
   height = "46px",
   position = xaringanExtra::css_position(bottom = "1em", left = "60px"),

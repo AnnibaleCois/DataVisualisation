@@ -16,7 +16,7 @@ Adapted form Sydney University Theme
   margin-bottom: 10px;
 }
 .remark-slide-content > h2:first-of-type {
-  color: #561a34; 
+  color: #000000; 
   margin-top: 5px;
   margin-bottom: 10px;
 }
@@ -413,7 +413,7 @@ blockquote, .blockquote {
 
 .su-white {
   background-color: #FFFFFF; 
-  color: #561a34;
+  color: #007DB6;
 }
 
 /* Example slides */
@@ -533,7 +533,7 @@ a, a > code {
 /* With background */
 
 .title-slide {
-  background-image: url(seminars.png), url(subanner_3.jpg);
+  background-image: url(seminars.png), url(samrc_background_flip.png);
   background-position: 0% 3%, 50% 50%;
   background-size: 100%, 100% 100%;
   text-align:left;
